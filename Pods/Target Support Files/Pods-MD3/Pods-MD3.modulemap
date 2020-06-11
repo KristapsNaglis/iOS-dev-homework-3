@@ -1,0 +1,6 @@
+framework module Pods_MD3 {
+  umbrella header "Pods-MD3-umbrella.h"
+
+  export *
+  module * { export * }
+}
